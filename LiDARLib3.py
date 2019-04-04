@@ -16,8 +16,8 @@ lstFILE_TYPE_OK = ['las', 'laz']
 import sys
 import os
 import arcpy
-import tileUtility as tileU
-import LiDARUtility as lidarU
+import LiDAR.tileUtility as tileU
+import LiDAR.LiDARUtility as lidarU
 
 # defaults and OK codes
 strDefaultDrive = 'N'
