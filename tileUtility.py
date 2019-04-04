@@ -13,7 +13,7 @@
 ---------------------------------------------------------------------------
 """
 import os
-from LiDARLib3 import lstFILE_TYPE_OK
+from LiDAR.LiDARLib3 import lstFILE_TYPE_OK
         
 class TileObj:
     """ Class TileObj to obtain LiDAR file properties.
